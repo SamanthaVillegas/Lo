@@ -11,7 +11,7 @@ if (letra == "A" | letra == "E" | letra == "I" | letra == "O" | letra == "U")
 }
 else if (letra == "B" | letra == "C" | letra == "D" | letra == "F" | letra == "G" | letra == "H" | letra == "I" | letra == "J" | letra == "K" | letra == "L" | letra == "M" | letra == "N" | letra == "P" | letra == "Q" | letra == "R" | letra == "S" | letra == "T" | letra == "V" | letra == "W" | letra == "X" | letra == "Y" | letra == "Z")
 {
-    alert("la letra es una consonante");
+    alert("La letra es una consonante");
 }
 else
 {

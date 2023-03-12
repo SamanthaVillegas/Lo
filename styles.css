@@ -1,0 +1,28 @@
+header, section{
+    width: 500px;
+    margin: auto;
+    font-family: 'Assistant', sans-serif;
+}
+header{
+    background-color: #005FB1;
+    display: flex;
+    padding: 35px;
+    padding-left: 50px;
+    padding-right: 50px;
+    justify-content: center;
+    margin-top: 300px;
+    
+}
+section{
+    background-color: #C6ECFF;
+    padding: 50px;
+}
+a:hover{
+    background: #eaccff;
+    padding: 15px;
+}
+.menu{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

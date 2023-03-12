@@ -17,5 +17,5 @@ else if (respuesta == "NO")
 }
 else
 {
-    alert("Intente de nuevo");
+    alert("Intentelo de nuevo");
 }
